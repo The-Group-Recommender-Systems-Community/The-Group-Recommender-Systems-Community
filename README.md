@@ -1,1 +1,1 @@
-# The-Group-Recommender-Systems-Community
+# The Group Recommender Systems Community
